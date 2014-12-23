@@ -40,7 +40,7 @@
     
     if ([self.usrName.text isEqual:@""] || [self.pwd.text isEqual:@""]) {
         
-        UIAlertView *alert=[[UIAlertView alloc] initWithTitle:@"User Credentials" message:@"Please enter username and password"
+        UIAlertView *alert=[[UIAlertView alloc] initWithTitle:kuserCredentials message:klogintext
                                                      delegate:self cancelButtonTitle:nil otherButtonTitles:@"OK", nil];
         [alert show];
         

@@ -83,7 +83,7 @@
                if([dic objectForKey:keventID]== self.event.eventID){
                 self.isEventSavedBefore=YES;
                    
-                   UIAlertView *alert=[[UIAlertView alloc] initWithTitle:@"Message" message:@"Event has been added already"
+                   UIAlertView *alert=[[UIAlertView alloc] initWithTitle:kmessage message:ktrackertext
                                                                 delegate:self cancelButtonTitle:nil otherButtonTitles:@"OK", nil];
                    [alert show];
                    

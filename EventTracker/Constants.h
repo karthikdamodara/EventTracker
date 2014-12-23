@@ -35,3 +35,10 @@
 #define ktrackviewctrlr @"trackViewController"
 #define keventlstcntrlr  @"eventListController"
 
+#define kuserCredentials @"User Credentials"
+
+#define klogintext  @"Please enter username and password"
+
+#define kmessage @"Message"
+
+#define ktrackertext @"Event has been added already"
