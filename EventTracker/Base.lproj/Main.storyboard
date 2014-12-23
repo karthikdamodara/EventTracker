@@ -302,17 +302,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Ble-un-5cA">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="1LT-g5-hP0">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Eeg-8Q-myd">
-                                <rect key="frame" x="702" y="7" width="30" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                            </button>
-                        </barButtonItem>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" id="Ble-un-5cA"/>
                     <connections>
                         <outlet property="eventAddress" destination="ZLt-HR-Rbz" id="mgV-WQ-hgR"/>
                         <outlet property="eventDate" destination="beA-gH-Y5d" id="JcI-WY-L69"/>

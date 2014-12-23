@@ -166,8 +166,8 @@ return [[[NSFileManager defaultManager] URLsForDirectory:NSDocumentDirectory inD
         event.eventID=[objData objectForKey:keventID];
         event.type=[objData objectForKey:ktype];
         event.date=[objData objectForKey:kdate];
-        event.thumbnail=[NSString stringWithFormat:@"%d.jpeg",idx+1];
-        event.mainImage=[NSString stringWithFormat:@"%d_main.jpeg",idx+1];
+        event.thumbnail=[NSString stringWithFormat:@"%u.jpeg",idx+1];
+        event.mainImage=[NSString stringWithFormat:@"%u_main.jpeg",idx+1];
         
         // then save to Core Data
         NSError *error = nil;
