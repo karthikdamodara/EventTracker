@@ -1,0 +1,12 @@
+[{ "name": "Metallica Concert", "address":"Palace Grounds", "type":"paid entry", "eventID":1,"date":"26-12-2014" },
+ { "name": "Saree Exhibition", "address":"Malleswaram Grounds", "type":"free entry", "eventID":2,"date":"27-12-2014" },
+ { "name": "Wine tasting", "address":"Links Brewery", "type":"paid entry", "eventID":3,"date":"28-12-2014" },
+ { "name": "Startups Meet", "address":"Kanteerava Indoor Stadium", "type":"paid entry", "eventID":4,"date":"29-12-2014" },
+ { "name": "Summer Noon Party", "address":"Kumara Park", "type":"paid entry", "eventID":5,"date":"30-12-2014" },
+ { "name": "Rock and Roll nights", "address":"Sarjapur Road", "type":"paid entry", "eventID":6,"date":"31-12-2014" },
+ { "name": "Barbecue Fridays", "address":"Whitefield", "type":"paid entry", "eventID":7,"date":"01-01-2015" },
+ { "name": "Summer workshop", "address":"Indiranagar", "type":"free entry", "eventID":8,"date":"04-01-2015" },
+ { "name": "Impressions & Expressions", "address":"MG Road", "type":"free entry", "eventID":9,"date":"06-01-2015" },
+ { "name": "Italian carnival", "address":"Electronic City", "type":"free entry", "eventID":10,"date":"09-01-2015" }]
+
+ 
